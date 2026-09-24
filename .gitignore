@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
+=======
+.env
+.env.example
+>>>>>>> a343692 (Remove .env from repository)
 __pycache__/
 *.py[codz]
 *$py.class
@@ -153,6 +158,7 @@ activemq-data/
 .venv
 env/
 venv/
+<<<<<<< HEAD
 ENV/
 env.bak/
 venv.bak/
@@ -216,3 +222,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+.venv/
+aws/
+>>>>>>> a343692 (Remove .env from repository)
